@@ -18,7 +18,7 @@
 **※GitHubリポジトリとアプリ版のアップデート適用には、1日～1週間程度のズレが生じる場合があります。**
 
 **Boothリンク**  
-[最新版撲滅君 - Booth]([https://nsan.booth.pm/items/667831](https://nsan.booth.pm/items/6678312))
+[最新版撲滅君 - Booth](https://nsan.booth.pm/items/6678312)
 
 ---
 
@@ -55,7 +55,7 @@ It helps keep your file naming clear and organized.
 **Please note that updates between the GitHub repository and the app version may have a delay of about 1 day to 1 week.**
 
 **Booth Link**  
-[最新版撲滅君 - Booth]([https://nsan.booth.pm/items/667831](https://nsan.booth.pm/items/6678312))
+[最新版撲滅君 - Booth](https://nsan.booth.pm/items/6678312)
 
 ---
 
