@@ -49,6 +49,16 @@
 This app notifies you when you create files with **misleading or redundant names** such as “latest version” in a specified folder.  
 It helps keep your file naming clear and organized.
 
+---
+
+**This app is also available for purchase on Booth. If you are interested or would like to support the development, please consider buying it.**  
+**Please note that updates between the GitHub repository and the app version may have a delay of about 1 day to 1 week.**
+
+**Booth Link**  
+[最新版撲滅君 - Booth](https://nsan.booth.pm/items/667831)
+
+---
+
 > 📝 **Examples detected:**  
 > 📄 xxx_latest  
 > 📄 xxx_new_latest  
