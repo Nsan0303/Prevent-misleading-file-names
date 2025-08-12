@@ -14,25 +14,33 @@
 
 ---
 
+**Boothで販売もしているので、気になった方や支援したい方はぜひご購入ください。**  
+**※GitHubリポジトリとアプリ版のアップデート適用には、1日～1週間程度のズレが生じる場合があります。**
+
+**Boothリンク**  
+[最新版撲滅君 - Booth](https://nsan.booth.pm/items/667831)
+
+---
+
 ### ✨ 主な機能
 
-- 📂 指定フォルダ内のファイル名を監視
-- 🔔 特定キーワードを含むファイル名を検知すると通知
-- 🖥️ タスクトレイ常駐
-- 🗂️ キーワードやディレクトリの履歴保存・選択
-- ⏯️ 監視の開始・停止が可能
+- 📂 指定フォルダ内のファイル名を監視  
+- 🔔 特定キーワードを含むファイル名を検知すると通知  
+- 🖥️ タスクトレイ常駐  
+- 🗂️ キーワードやディレクトリの履歴保存・選択  
+- ⏯️ 監視の開始・停止が可能  
 
 ---
 
 ### 🛠️ 必要ライブラリ
 
-- 🐍 Python 標準ライブラリ
-- 🖱️ pystray
-- 🔔 win10toast
-- 🪟 tkinter
-- 🖼️ PIL (Pillow)
-- 📱 plyer（一部バージョンで使用）
-- その他
+- 🐍 Python 標準ライブラリ  
+- 🖱️ pystray  
+- 🔔 win10toast  
+- 🪟 tkinter  
+- 🖼️ PIL (Pillow)  
+- 📱 plyer（一部バージョンで使用）  
+- その他  
 
 ---
 
@@ -52,23 +60,23 @@ It helps keep your file naming clear and organized.
 
 ### ✨ Main Features
 
-- 📂 Monitor file names in a specified folder
-- 🔔 Notify when a file name contains a specific keyword
-- 🖥️ Run in the system tray
-- 🗂️ Save and select keyword/directory history
-- ⏯️ Start and stop monitoring
+- 📂 Monitor file names in a specified folder  
+- 🔔 Notify when a file name contains a specific keyword  
+- 🖥️ Run in the system tray  
+- 🗂️ Save and select keyword/directory history  
+- ⏯️ Start and stop monitoring  
 
 ---
 
 ### 🛠️ Required Libraries
 
-- 🐍 Python standard library
-- 🖱️ pystray
-- 🔔 win10toast
-- 🪟 tkinter
-- 🖼️ PIL (Pillow)
-- 📱 plyer (used in some versions)
-- others
+- 🐍 Python standard library  
+- 🖱️ pystray  
+- 🔔 win10toast  
+- 🪟 tkinter  
+- 🖼️ PIL (Pillow)  
+- 📱 plyer (used in some versions)  
+- others  
 
 ---
 
@@ -77,7 +85,7 @@ It helps keep your file naming clear and organized.
 ### 🇯🇵 日本語
 
 1. Python 3.x がインストールされていることを確認してください。  
-2. 以下の必要ライブラリをインストールします：
+2. 以下の必要ライブラリをインストールします：  
    ```bash
    pip install pystray win10toast pillow plyer
 ※ tkinter は多くの環境で標準搭載されています。
@@ -88,6 +96,7 @@ It helps keep your file naming clear and organized.
 ### 🇬🇧 English
 
 1. Make sure Python 3.x is installed.
+
 2. Install the required libraries:
 
    ```bash
@@ -95,4 +104,5 @@ It helps keep your file naming clear and organized.
 ※ tkinter is included by default in many environments.
 
 3. Run Dev.py or nodebugvar.py.
+
 4. Set the monitoring directory and keywords from the system tray icon.
